@@ -1,5 +1,5 @@
 # Cybersecurity-Attack-and-Defense-Fundamentals-Specialization
-Certificates for the *Cybersecurity Attack and Defense Fundamentals Specialization* course
+Certificates for the *Cybersecurity Attack and Defense Fundamentals Specialization* course by _*EC-Council*_
 
 ## First
 It has the course certificate for all three courses listed below.
